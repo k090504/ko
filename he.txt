@@ -1,2 +1,4 @@
 "Hello github"
 "Main branch off"
+"This is feature branch edit"
+"Feature branch conflict edit"
